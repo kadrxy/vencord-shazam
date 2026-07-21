@@ -39,6 +39,7 @@ Press the music note button while music is playing in your voice channel (music 
 4. Enable **Shazam** in Vencord's plugin settings and paste your AudD api token
 
 ## Usage
+![Uploading image.png…]()
 
 1. Make sure the plugin is enabled **before** joining the voice channel (if you enable it while already connected, just rejoin)
 2. Join a voice channel where music is playing

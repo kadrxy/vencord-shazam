@@ -11,6 +11,16 @@ Press the music note button while music is playing in your voice channel (music 
 - 🔔 Result shown as a notification with artist, title, album and release date — click to open the song page
 - ⚙️ Adjustable recording duration (5–15 seconds)
 
+## Screenshots
+
+Press the button while a music bot is playing — the plugin records the incoming voice audio:
+
+![Listening notification](./listening.png)
+
+A few seconds later the identified song pops up; click the notification to open it:
+
+![Result notification](./result.png)
+
 ## Requirements
 
 | Requirement | Why |

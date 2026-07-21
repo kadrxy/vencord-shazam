@@ -187,8 +187,8 @@ const ShazamChatBarButton: ChatBarButtonFactory = ({ isAnyChat }) => {
 export default definePlugin({
     name: "Shazam",
     description: "Identify songs playing in your voice channel via AudD, right from the chat bar",
-    authors: [{ name: "kadrxy", id: 0n }],
-    settings,
+    authors: [{ name: "kadrxy", id: 518089207793844225n }],
+    settings,   
 
     chatBarButton: {
         icon: ShazamIcon,
